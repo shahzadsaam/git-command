@@ -9,3 +9,27 @@ git status
 git add .
 
 git commit -m "---"
+
+git log
+
+git stash
+
+git stash save
+
+git push 
+
+git pull 
+
+git add remote "url"
+
+git push -u origin "___"
+
+git branch 
+
+git checkout
+
+git merge 
+
+
+
+
