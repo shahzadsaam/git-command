@@ -10,4 +10,30 @@ git add .
 
 git commit -m "---"
 
+<<<<<<< HEAD
 git checkout -b <branch>
+=======
+git log
+
+git stash
+
+git stash save
+
+git push 
+
+git pull 
+
+git add remote "url"
+
+git push -u origin "___"
+
+git branch 
+
+git checkout
+
+git merge 
+
+
+
+
+>>>>>>> b675b60d7372d410e9b42c5dbe22df277796129a
