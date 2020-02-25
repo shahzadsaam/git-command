@@ -10,9 +10,8 @@ git add .
 
 git commit -m "---"
 
-<<<<<<< HEAD
 git checkout -b <branch>
-=======
+
 git log
 
 git stash
@@ -34,6 +33,3 @@ git checkout
 git merge 
 
 
-
-
->>>>>>> b675b60d7372d410e9b42c5dbe22df277796129a
